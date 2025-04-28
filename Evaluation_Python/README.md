@@ -5,5 +5,6 @@ Toute aide pour me corriger et m'améliorer est toujours la bienvenue !
 ### Infos sur le sujet   
 Ce sujet nous a été donnée par Timothée CERCUEIL, son linkedin et son site est sont a retrouver ci-dessous  
 
-🔗 [Linkedin ](https://www.linkedin.com/in/timothee-cercueil/)
+🔗 [Linkedin ](https://www.linkedin.com/in/timothee-cercueil/)  
+
 🌐 [Site Internet](https://litchipi.site)
